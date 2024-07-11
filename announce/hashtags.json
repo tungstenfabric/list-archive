@@ -1,0 +1,26 @@
+[
+   {
+      "id": 30763,
+      "object": "hashtag",
+      "created": "2018-09-04T08:43:59.011678127-07:00",
+      "group_id": 21161,
+      "name": "poll",
+      "mods_only_post": false,
+      "mods_only_replies": false,
+      "no_email": false,
+      "moderated": false,
+      "special": false,
+      "replies_unmoderated": false,
+      "locked": false,
+      "until": "hashtag_delete_forever",
+      "close_instead_of_delete": false,
+      "description": "",
+      "color_name": "cerulean-blue",
+      "color_hex": "#4191d6",
+      "reply_to": "thread_reply_group_default",
+      "topic_count": 1,
+      "last_message_date": "2018-09-04T08:43:59.011268428-07:00",
+      "muted": null,
+      "followed": null
+   }
+]

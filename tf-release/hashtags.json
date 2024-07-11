@@ -1,0 +1,26 @@
+[
+   {
+      "id": 258473,
+      "object": "hashtag",
+      "created": "2023-04-06T10:44:43.09703612-07:00",
+      "group_id": 84361,
+      "name": "cal-invite",
+      "mods_only_post": false,
+      "mods_only_replies": false,
+      "no_email": false,
+      "moderated": false,
+      "special": false,
+      "replies_unmoderated": false,
+      "locked": false,
+      "until": "hashtag_delete_forever",
+      "close_instead_of_delete": false,
+      "description": "",
+      "color_name": "cerulean-blue",
+      "color_hex": "#4191d6",
+      "reply_to": "thread_reply_group_default",
+      "topic_count": 1,
+      "last_message_date": "2023-04-06T10:44:43.09655656-07:00",
+      "muted": null,
+      "followed": null
+   }
+]

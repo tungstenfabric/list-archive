@@ -1,0 +1,2968 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Groups.io Inc//Tungsten Fabric Calendar//EN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+X-GIOIDS:Event:1109891 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210401T143000Z
+DTEND:20210401T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1109892 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210408T143000Z
+DTEND:20210408T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1109893 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210415T143000Z
+DTEND:20210415T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1109894 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210422T143000Z
+DTEND:20210422T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1112210 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210429T143000Z
+DTEND:20210429T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1119605 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210506T143000Z
+DTEND:20210506T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1126917 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210513T143000Z
+DTEND:20210513T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1132358 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210520T143000Z
+DTEND:20210520T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1141317 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210527T143000Z
+DTEND:20210527T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1147307 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210603T143000Z
+DTEND:20210603T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1152729 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210610T143000Z
+DTEND:20210610T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1158768 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210617T143000Z
+DTEND:20210617T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1164661 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210624T143000Z
+DTEND:20210624T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1173028 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210701T143000Z
+DTEND:20210701T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1179524 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210708T143000Z
+DTEND:20210708T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1185486 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210715T143000Z
+DTEND:20210715T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1191102 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210722T143000Z
+DTEND:20210722T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1197433 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210729T143000Z
+DTEND:20210729T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1202601 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210805T143000Z
+DTEND:20210805T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1208521 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210812T143000Z
+DTEND:20210812T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1214797 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210819T143000Z
+DTEND:20210819T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1220688 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210826T143000Z
+DTEND:20210826T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1235389 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210902T143000Z
+DTEND:20210902T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1241511 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210909T143000Z
+DTEND:20210909T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1247860 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210916T143000Z
+DTEND:20210916T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1253841 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210923T143000Z
+DTEND:20210923T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1260145 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20210930T143000Z
+DTEND:20210930T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1267478 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211007T143000Z
+DTEND:20211007T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1274169 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211014T143000Z
+DTEND:20211014T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1279313 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211021T143000Z
+DTEND:20211021T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1284867 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211028T143000Z
+DTEND:20211028T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1290574 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211104T143000Z
+DTEND:20211104T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1297934 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211111T153000Z
+DTEND:20211111T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1304074 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211118T153000Z
+DTEND:20211118T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1309498 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211125T153000Z
+DTEND:20211125T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1316525 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211202T153000Z
+DTEND:20211202T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1325673 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211209T153000Z
+DTEND:20211209T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1334373 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211216T153000Z
+DTEND:20211216T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1341921 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211223T153000Z
+DTEND:20211223T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1347372 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20211230T153000Z
+DTEND:20211230T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1352832 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220106T153000Z
+DTEND:20220106T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1359582 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220113T153000Z
+DTEND:20220113T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1365474 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220120T153000Z
+DTEND:20220120T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1370509 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220127T153000Z
+DTEND:20220127T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1378039 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220203T153000Z
+DTEND:20220203T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1385801 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220210T153000Z
+DTEND:20220210T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1397525 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220217T153000Z
+DTEND:20220217T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1404833 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220224T153000Z
+DTEND:20220224T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1412553 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220303T153000Z
+DTEND:20220303T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1425284 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220310T153000Z
+DTEND:20220310T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1432635 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220317T143000Z
+DTEND:20220317T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1440836 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220324T143000Z
+DTEND:20220324T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1449947 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220331T143000Z
+DTEND:20220331T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1455024 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220407T143000Z
+DTEND:20220407T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1463096 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220414T143000Z
+DTEND:20220414T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1470794 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220421T143000Z
+DTEND:20220421T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1478502 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220428T143000Z
+DTEND:20220428T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1487527 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220505T143000Z
+DTEND:20220505T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1496034 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220512T143000Z
+DTEND:20220512T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1503264 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220519T143000Z
+DTEND:20220519T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1509803 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220526T143000Z
+DTEND:20220526T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1516353 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220602T143000Z
+DTEND:20220602T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1522787 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220609T143000Z
+DTEND:20220609T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1529142 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220616T143000Z
+DTEND:20220616T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1534599 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220623T143000Z
+DTEND:20220623T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1540450 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220630T143000Z
+DTEND:20220630T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1547795 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220707T143000Z
+DTEND:20220707T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1555422 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220714T143000Z
+DTEND:20220714T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1563518 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220721T143000Z
+DTEND:20220721T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1571351 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220728T143000Z
+DTEND:20220728T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1577958 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220804T143000Z
+DTEND:20220804T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1585292 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220811T143000Z
+DTEND:20220811T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1591904 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220818T143000Z
+DTEND:20220818T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1598520 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220825T143000Z
+DTEND:20220825T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1605104 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220901T143000Z
+DTEND:20220901T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1613316 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220908T143000Z
+DTEND:20220908T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1620276 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220915T143000Z
+DTEND:20220915T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1627761 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220922T143000Z
+DTEND:20220922T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1634690 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20220929T143000Z
+DTEND:20220929T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1642381 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221006T143000Z
+DTEND:20221006T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1649167 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221013T143000Z
+DTEND:20221013T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1657337 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221020T143000Z
+DTEND:20221020T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1664041 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221027T143000Z
+DTEND:20221027T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1670651 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221103T143000Z
+DTEND:20221103T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1678222 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221110T153000Z
+DTEND:20221110T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1685439 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221117T153000Z
+DTEND:20221117T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1692367 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221124T153000Z
+DTEND:20221124T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1698876 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221201T153000Z
+DTEND:20221201T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1708150 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221208T153000Z
+DTEND:20221208T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1718007 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221215T153000Z
+DTEND:20221215T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1725405 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221222T153000Z
+DTEND:20221222T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1734748 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20221229T153000Z
+DTEND:20221229T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1745204 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230105T153000Z
+DTEND:20230105T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1754292 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230112T153000Z
+DTEND:20230112T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1762247 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230119T153000Z
+DTEND:20230119T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1769565 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230126T153000Z
+DTEND:20230126T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1776353 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230202T153000Z
+DTEND:20230202T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1786137 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230209T153000Z
+DTEND:20230209T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1794719 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230216T153000Z
+DTEND:20230216T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1805406 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230223T153000Z
+DTEND:20230223T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1815112 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230302T153000Z
+DTEND:20230302T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1821425 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230309T153000Z
+DTEND:20230309T160000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1837046 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230316T143000Z
+DTEND:20230316T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1844908 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230323T143000Z
+DTEND:20230323T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1853005 
+UID:n9kc5f2b5hr8pebsoplcts0090_R20210401T143000@google.com
+DTSTAMP:20240708T212525Z
+ORGANIZER;CN=TF Events of Interest;SENT-BY="mailto:emq20cfbr6ft5b0r3kv6kh
+ onvs@group.calendar.google.com":mailto:emq20cfbr6ft5b0r3kv6khonvs@group.c
+ alendar.google.com
+DTSTART:20230330T143000Z
+DTEND:20230330T150000Z
+SUMMARY:TF Release & Docs Weekly Sync
+DESCRIPTION:\n----------\nTungsten Fabric Community is inviting you to a 
+ scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/939908205
+ \n\nOne tap mobile\n+16699006833\,\,939908205# US (San Jose)\n+1646558865
+ 6\,\,939908205# US (New York)\n\nDial by your location\n        +1 669 90
+ 0 6833 US (San Jose)\n        +1 646 558 8656 US (New York)\n        877 
+ 369 0926 US Toll-free\n        855 880 1246 US Toll-free\nMeeting ID: 939
+  908 205\nFind your local number: https://zoom.us/u/aONg7cGls\n\n--------
+ --\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nView your event at https://calendar.google.com/calendar/event?action=
+ VIEW&eid=bjlrYzVmMmI1aHI4cGVic29wbGN0czAwOTBfUjIwMjEwNDAxVDE0MzAwMCB0Zi1y
+ ZWxlYXNlQGxpc3RzLnR1bmdzdGVuLmlv&tok=NTIjZW1xMjBjZmJyNmZ0NWIwcjNrdjZraG9u
+ dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWQyMGNkMTg4MTk2MmZmMjJjOGM0MzQ4NWFlM
+ jQ1NjA4OWNiZjVjNDg&ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LOCATION:https://zoom.us/j/939908205
+SEQUENCE:1
+END:VEVENT
+END:VCALENDAR

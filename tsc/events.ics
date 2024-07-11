@@ -1,0 +1,1008 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Groups.io Inc//Tungsten Fabric Calendar//EN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+X-GIOIDS:Event:1889591 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230413T170000Z
+DTEND:20230413T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1889592 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230420T170000Z
+DTEND:20230420T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1889593 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230427T170000Z
+DTEND:20230427T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1889594 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230504T170000Z
+DTEND:20230504T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1894944 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230511T170000Z
+DTEND:20230511T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1902782 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230518T170000Z
+DTEND:20230518T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1909419 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230525T170000Z
+DTEND:20230525T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1916552 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230601T170000Z
+DTEND:20230601T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1916553 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230608T170000Z
+DTEND:20230608T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1931575 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230615T170000Z
+DTEND:20230615T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1938079 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230622T170000Z
+DTEND:20230622T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1945598 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230629T170000Z
+DTEND:20230629T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1953847 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230706T170000Z
+DTEND:20230706T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1961506 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230713T170000Z
+DTEND:20230713T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1968012 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230720T170000Z
+DTEND:20230720T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1975457 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230727T170000Z
+DTEND:20230727T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1981738 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230803T170000Z
+DTEND:20230803T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1988862 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230810T170000Z
+DTEND:20230810T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1996387 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230817T170000Z
+DTEND:20230817T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2002973 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230824T170000Z
+DTEND:20230824T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2009545 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230831T170000Z
+DTEND:20230831T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2017001 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230907T170000Z
+DTEND:20230907T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2024249 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230914T170000Z
+DTEND:20230914T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2031471 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230921T170000Z
+DTEND:20230921T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2038622 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20230928T170000Z
+DTEND:20230928T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2047401 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231005T170000Z
+DTEND:20231005T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2055010 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231012T170000Z
+DTEND:20231012T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2064017 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231019T170000Z
+DTEND:20231019T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2071573 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231026T170000Z
+DTEND:20231026T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2078659 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231102T170000Z
+DTEND:20231102T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2089018 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231109T180000Z
+DTEND:20231109T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2095615 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231116T180000Z
+DTEND:20231116T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2103116 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231123T180000Z
+DTEND:20231123T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2111441 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231130T180000Z
+DTEND:20231130T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2114851 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231207T180000Z
+DTEND:20231207T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2132993 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231214T180000Z
+DTEND:20231214T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2140792 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231221T180000Z
+DTEND:20231221T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2147622 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20231228T180000Z
+DTEND:20231228T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2155801 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240104T180000Z
+DTEND:20240104T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2164167 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240111T180000Z
+DTEND:20240111T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2173138 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240118T180000Z
+DTEND:20240118T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2182116 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240125T180000Z
+DTEND:20240125T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2190202 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240201T180000Z
+DTEND:20240201T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2193793 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240208T180000Z
+DTEND:20240208T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2208898 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240215T180000Z
+DTEND:20240215T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2217905 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240222T180000Z
+DTEND:20240222T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2227001 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240229T180000Z
+DTEND:20240229T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2239076 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240307T180000Z
+DTEND:20240307T190000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2246780 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240314T170000Z
+DTEND:20240314T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2253086 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240321T170000Z
+DTEND:20240321T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2260107 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240328T170000Z
+DTEND:20240328T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2265868 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240404T170000Z
+DTEND:20240404T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2273547 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240411T170000Z
+DTEND:20240411T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2281250 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240418T170000Z
+DTEND:20240418T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2288129 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240425T170000Z
+DTEND:20240425T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2294636 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240502T170000Z
+DTEND:20240502T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2302449 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240509T170000Z
+DTEND:20240509T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2310124 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240516T170000Z
+DTEND:20240516T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2317805 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240523T170000Z
+DTEND:20240523T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2324485 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240530T170000Z
+DTEND:20240530T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2332435 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240606T170000Z
+DTEND:20240606T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2339899 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240613T170000Z
+DTEND:20240613T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2346405 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240620T170000Z
+DTEND:20240620T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2353218 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240627T170000Z
+DTEND:20240627T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2361509 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240704T170000Z
+DTEND:20240704T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2369676 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240711T170000Z
+DTEND:20240711T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2377700 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240718T170000Z
+DTEND:20240718T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2385208 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240725T170000Z
+DTEND:20240725T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2392713 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240801T170000Z
+DTEND:20240801T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:2398888 
+UID:Ht5r.1680803316920967261.O14h@lists.tungsten.io
+DTSTAMP:20240708T212446Z
+ORGANIZER;CN=Casey Cain;SENT-BY="mailto:ccain@linuxfoundation.org":mailto
+ :ccain@linuxfoundation.org
+DTSTART:20240808T170000Z
+DTEND:20240808T180000Z
+SUMMARY:TF TSC Weekly Community Meeting
+DESCRIPTION:Weekly community meeting
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/9582100084
+ 7
+SEQUENCE:1
+END:VEVENT
+END:VCALENDAR
